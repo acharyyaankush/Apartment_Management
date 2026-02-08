@@ -53,3 +53,25 @@ Set monthly/quarterly/annual expenses
 Automatic expense calculation
 
 Fixed expense tracking
+
+# 👑 Admin Management
+Multi-role system (Admin/User)
+
+Admin profile management
+
+Role-based access control
+
+Admin to user role demotion with auto-logout
+
+Session management
+
+# 📄 Reports & Export
+Financial PDF reports
+
+Monthly history export
+
+Expenses report generation
+
+Professional PDF formatting
+
+Print-ready reports
